@@ -1,4 +1,4 @@
-# alexr, a tiny lexer
+# Alexr, a tiny lexer
 
 Welcome to alexr (arthur's lexer), a tiny lexer that can be statically dumped into your
 program.
